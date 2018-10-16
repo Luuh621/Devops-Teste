@@ -1,14 +1,26 @@
-Testes Unitários;
+Teste de Configuração, 
 
-Test-Driven Development – TDD;
+Teste de Instalação, 
 
-Testes de Integração;
+Teste de Integridade, 
 
-Testes Funcionais;
+Teste de Segurança, 
 
-Testes de desempenho, carga e stress;
+Teste Funcional, 
 
-Testes automatizados;
+Teste de Unidade, 
+
+Teste de Integração, 
+
+Teste de Volume, 
+
+Teste de Performance, 
+
+Teste de Usabilidade, 
+
+Testes de Caixa Branca e Caixa Preta, 
+
+Teste de Regressão e Teste de Manutenção.
 
 
 Nome: Messias Natanael da Silva Martins
